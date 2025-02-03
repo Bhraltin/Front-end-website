@@ -1,0 +1,145 @@
+
+{
+  "en": {
+    "heroSection": {
+      "greeting": "Creative thinker Minimalizm Lover",
+      "intro": "I'm Bahar. I'm a Front-end Developer. I can craft solid and scalable frontend products.",
+      "ProfileImage": "image",
+      "socials": [
+        {
+          "logo": "linkedin.png",
+          "alt_text": "linkedin",
+          "link": "https://www.linkedin.com/in/bahar-alt%C4%B1n-990666212/"
+        },
+        {
+          "logo": "github.png",
+          "alt_text": "github",
+          "link": "https://github.com/Bhraltin"
+        }
+      ],
+      "ctaHTML": "Currently looking for a job as a <strong>Frontend Developer</strong>. Hi, I am a full-stack developer with a passion for creating beautiful and functional web applications."
+    },
+    "skillsSection": {
+      "title": "Skills",
+      "skills": [
+        {
+          "name": "HTML",
+          "icon": "html.png"
+        },
+        {
+          "name": "CSS",
+          "icon": "css.png"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "icon": "javascript.png"
+        },
+        {
+          "name": "REACT",
+          "icon": "react.png"
+        },
+        {
+          "name": "REDUX",
+          "icon": "redux.png"
+        },
+        {
+          "name": "VS CODE",
+          "icon": "vscode.png"
+        }
+      ]
+    },
+    "ProfileSection": {
+      "title": "Basic Information",
+      "birtday": "03.06.1994",
+      "city": "Balıkesir",
+      "education": "Sakarya Ünv. Alman Dili ve Edebiyatı, Lisans, 2018",
+      "role": "Frontend",
+      "about": "hhsagd"
+    },
+    "ProjectsSection": {
+      "projects": [
+        {
+          "title": "Pizza",
+          "information": "hsdgshfı"
+        }
+      ,
+     
+        {
+          "title": "Witflix",
+          "information": "jhahuhf"
+        }
+      ]
+    }
+  },
+  "tr": {
+    "heroSection": {
+      "greeting": "Yaratıcı Düşünür, Minimalizm Aşığı",
+      "intro": "Ben Bahar. Bir Front-end Geliştiricisiyim. Sağlam ve ölçeklenebilir ön yüz ürünleri oluşturabilirim.",
+      "ProfileImage": "image",
+      "socials": [
+        {
+          "logo": "linkedin.png",
+          "alt_text": "linkedin",
+          "link": "https://www.linkedin.com/in/bahar-alt%C4%B1n-990666212/"
+        },
+        {
+          "logo": "github.png",
+          "alt_text": "github",
+          "link": "https://github.com/Bhraltin"
+        }
+      ],
+      "ctaHTML": "Şu anda bir <strong>Frontend Developer</strong> olarak iş arıyorum. Güzel ve işlevsel web uygulamaları oluşturma tutkusuyla bir full-stack geliştiricisiyim."
+    },
+    "skillsSection": {
+      "title": "Yetenekler",
+      "skills": [
+        {
+          "name": "HTML",
+          "icon": "html.png"
+        },
+        {
+          "name": "CSS",
+          "icon": "css.png"
+        },
+        {
+          "name": "JAVASCRIPT",
+          "icon": "javascript.png"
+        },
+        {
+          "name": "REACT",
+          "icon": "react.png"
+        },
+        {
+          "name": "REDUX",
+          "icon": "redux.png"
+        },
+        {
+          "name": "VS CODE",
+          "icon": "vscode.png"
+        }
+      ]
+    },
+    "ProfileSection": {
+      "title": "Temel Bilgiler",
+      "birtday": "03.06.1994",
+      "city": "Balıkesir",
+      "education": "Sakarya Ünv. Alman Dili ve Edebiyatı, Lisans, 2018",
+      "role": "Frontend",
+      "about": "hhsagd"
+    },
+    "ProjectsSection": {
+      "project1": [
+        {
+          "title": "Pizza",
+          "information": "hsdgshfı"
+        }
+      ],
+      "project2": [
+        {
+          "title": "Witflix",
+          "information": "jhahuhf"
+        }
+      ]
+    }
+  }
+}
