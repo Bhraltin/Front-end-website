@@ -2,9 +2,9 @@
 {
   "en": {
     "heroSection": {
-      "greeting": "Creative thinker Minimalizm Lover",
+      "greeting": "Hi👋",
       "intro": "I'm Bahar. I'm a Front-end Developer. I can craft solid and scalable frontend products.",
-      "ProfileImage": "image",
+      "profileImage": "img.png",
       "socials": [
         {
           "logo": "linkedin.png",
@@ -17,7 +17,7 @@
           "link": "https://github.com/Bhraltin"
         }
       ],
-      "ctaHTML": "Currently looking for a job as a <strong>Frontend Developer</strong>. Hi, I am a full-stack developer with a passion for creating beautiful and functional web applications."
+      "ctaHTML": "Hi, I am a front-end developer with a passion for creating beautiful and functional web applications."
     },
     "skillsSection": {
       "title": "Skills",
@@ -60,17 +60,42 @@
       "projects": [
         {
           "title": "Pizza",
-          "information": "hsdgshfı"
+          "information": "hsdgshfı",
+          "link": "https://github.com/Bhraltin/Challenge-pizza",
+          "image": "images/project1.png"
+        
         }
       ,
-     
         {
           "title": "Witflix",
-          "information": "jhahuhf"
+          "information": "jhahuhf",
+          "link": "https://github.com/Bhraltin/Witflix-",
+          "image": "images/project2.png"
         }
       ]
+    },
+    "footer": {
+      
+       "text":  "Let's work together on your next product."
+    ,
+     "socials": [
+   {
+     "name": "GitHub",
+     "link": "https://github.com/Bhraltin"
+   },
+   {
+     "name": "LinkedIn",
+     "link": "https://www.linkedin.com/in/bahar-alt%C4%B1n-990666212/"
+   },
+   {
+     "name": "Email",
+     "link": "mailto:bhriskts10@gmail.com"
+   }
+]
     }
   },
+
+
   "tr": {
     "heroSection": {
       "greeting": "Yaratıcı Düşünür, Minimalizm Aşığı",
@@ -128,13 +153,13 @@
       "about": "hhsagd"
     },
     "ProjectsSection": {
-      "project1": [
+      "projects": [
         {
           "title": "Pizza",
           "information": "hsdgshfı"
         }
-      ],
-      "project2": [
+      ,
+     
         {
           "title": "Witflix",
           "information": "jhahuhf"

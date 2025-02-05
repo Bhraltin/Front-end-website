@@ -9,24 +9,4 @@ export default defineConfig({
     react()],
   
 })
- {import('tailwindcss').Config} 
-module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
-  theme: {
-    extend: {
-      colors: {
-        "light": {
-          background: '#ffffff', 
-          text: '#000000', 
-        },
-        "dark": {
-          background: '#121212', 
-          text: '#ffffff', 
-        },
-      },
-    },
-  },
-  plugins: [],
-}
+ 
